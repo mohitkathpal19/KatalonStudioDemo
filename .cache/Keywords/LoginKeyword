@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "637AFE395BE6002DB9482D45D8466C02",
+  "keywordClasses": [
+    {
+      "name": "LoginKeyword",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginUser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
